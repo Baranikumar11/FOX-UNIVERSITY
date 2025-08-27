@@ -1,0 +1,15 @@
+.n{
+    text-decoration:none;
+    display:flex;
+    list-style:none;
+    gap:30px;
+    color:black;
+    padding-left:270px;
+    align-items:center;
+}
+
+.fb{
+    display:flex;
+    background-color: white;
+    align-items:center;
+}
